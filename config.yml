@@ -1,0 +1,8 @@
+files:
+  accounts_file: "./output/accounts.txt"
+  valid_file: "./output/valid.txt"
+  invalid_file: "./output/invalid.txt"
+
+config:
+  threading : "soon"
+  delay: 5
